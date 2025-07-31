@@ -1,0 +1,24 @@
+[
+  {
+    "category": "Сніданки",
+    "items": [
+      {
+        "name": "Яєчня з беконом",
+        "description": "2 яйця, бекон, тост",
+        "price": 95,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "category": "Напої",
+    "items": [
+      {
+        "name": "Кава",
+        "description": "Свіжозварена",
+        "price": 45,
+        "image": ""
+      }
+    ]
+  }
+]
